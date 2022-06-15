@@ -16,9 +16,9 @@ IMAGE_SIZE = 1800
 BINARY_THREHOLD = 180
 
 """定义常量"""
-APP_ID = '26018539'
-API_KEY = 'GhxFjCqPGKMevLKg5HAaHc2b'
-SECRET_KEY = 'wmdK8HBWZLCgn42FYaGlxq2DubjigupS'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 """初始化对象"""
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
